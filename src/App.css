@@ -1,0 +1,37 @@
+
+.color-picker {
+  text-align: center;
+}
+
+button {
+  padding:10px;
+  margin: 10px;
+  background-color:blue;
+  color: white;
+  cursor: pointer;
+}
+
+.color-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.color-option {
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.selected-color {
+  margin: 20px;
+  padding: 10px;
+  height: 1000px;
+}
+.title{
+  text-align: center;
+  font-weight: bold;
+}
+
+
